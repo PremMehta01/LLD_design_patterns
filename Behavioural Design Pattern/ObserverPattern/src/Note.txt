@@ -1,0 +1,10 @@
+1. Interface :: Subject (In this case, youtube channel)
+                - public void registerObserver()  OR public void subscribe()
+                - public void removeObserver()  OR public void unSubscribe()
+                - public void notifyObservers()
+
+2. Interface :: Observer (Subscriber)
+                - public void notified()
+
+3. Observer patter: When state of subject change (like new video uploaded), all dependent subscriber
+   should get notified

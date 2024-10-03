@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/BuilderPattern/BuilderPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural Design Pattern/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/Behavioural Design Pattern/ObserverPattern/ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatternsExample.iml" filepath="$PROJECT_DIR$/PatternsExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/SingletonPattern/SingletonPattern.iml" />
     </modules>
