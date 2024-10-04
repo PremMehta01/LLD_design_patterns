@@ -1,0 +1,7 @@
+1. Helps on objects behaviour change/assign at runtime
+2. Use where there is multiple algorithm/logic to achieve single goal.
+3. E.g:
+        - This payment system (one goal: receive payment but having different logic[paid by credit card, paypal, stripe etc]
+        - Instagram news feed (feed logic may be on most recent activity or highly engaged media or very less engaged media etc)
+
+
