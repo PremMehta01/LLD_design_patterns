@@ -16,5 +16,6 @@ public class Main {
         PaymentStrategy stripePayment = new StripePayment("stripe123");
         paymentContext.setPaymentStrategy(stripePayment);
         paymentContext.pay(1500);
+
     }
 }
