@@ -1,0 +1,11 @@
+3 Component:
+
+1. Receiver - Class => [Actual object like AC, TV etc] with all their functionalities defined.
+
+2. Command - Interface => Mainly with two declared methods a) void execute()   b) void undo()
+                       => Various Command Class implementing Command [like TurnOnACCommand, TurnOffACCommand etc]
+
+
+3. Invoker - Class => Like Remote with setCommand either with constructor or using separate setCommand
+                      method.
+                   => Along with two additional method i.e. pressButton(){} and undoPress(){}
