@@ -1,0 +1,10 @@
+1. Factory Class is responsible for creating appropriate object.
+2. Client is not responsible for creating exact object, client will only say which type of object
+   they want to create.
+
+
+3. Example:
+   Imagine a vehicle rental company that rents out different types of vehicles.
+   Customers might request a vehicle based on their need (e.g., "car," "bike," or "truck").
+   The company doesn't want to manage the complex details of creating each type of vehicle every
+   time a request is made, so it uses a Vehicle Factory.

@@ -1,0 +1,12 @@
+// Link: https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+
+1. We have a MediaPlayer interface and a concrete class AudioPlayer implementing the MediaPlayer interface.
+   AudioPlayer can play mp3 format audio files by default.
+
+ 2. We are having another interface AdvancedMediaPlayer and concrete classes implementing the
+    AdvancedMediaPlayer interface. These classes can play vlc and mp4 format files.
+
+ 3. We want to make AudioPlayer to play other formats as well.
+
+ 4. To attain this, we have created an adapter class MediaAdapter which implements the MediaPlayer
+    interface and uses AdvancedMediaPlayer objects to play the required format.

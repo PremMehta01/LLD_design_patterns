@@ -5,6 +5,7 @@ public class Car {
 
     private static Car car;
 
+    // NOTE: private constructor so that clien can not create multiple object using "new" keyword
     private Car(){
 
     }
