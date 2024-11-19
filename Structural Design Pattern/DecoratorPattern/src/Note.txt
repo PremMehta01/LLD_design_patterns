@@ -1,0 +1,5 @@
+// https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm
+
+1. When wanted to add new features without modifying existing code. Work like a wrapper to existing code.
+
+2. Read the small article from the top link provided.
